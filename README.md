@@ -10,7 +10,7 @@
 - 🏗️ Building Punk Knights [Punk Knights](https://github.com/0xpunkknights)
 
 ## Connect with me:
-[![X](image_url)](https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg){:target="_blank"}
+[![X](https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg)](https://x.com){:target="_blank"}
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="linux" width="40" height="40" /> <a href="https://www.facebook.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://stackoverflowteams.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="linux" width="40" height="40"/> </a> 
 
