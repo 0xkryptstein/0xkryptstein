@@ -1,6 +1,6 @@
 # Hi, I am Kryptstein
 
-- I am currenly a Fullstack developer at [Fire Station](https://github.com/0xfirestation)
+- I am currenly as Fullstack developer at [Fire Station](https://github.com/0xfirestation)
 - 📝 Working on Fire Station as CEO [Fire Station](https://github.com/0xfirestation)
 - 🏗️ Building FireChain [FireChain](https://github.com/0xfirechain)
 - 🏗️ Building FireChain Zkevm [FireChain Zkevm](https://github.com/firechainzkevm)
