@@ -1,13 +1,13 @@
 # Hi, I am Kryptstein
 
 - I am currenly as Fullstack developer at [Fire Station](https://github.com/0xfirestation)
-- 📝 Working on Fire Station as CEO [Fire Station](https://github.com/0xfirestation)
-- 🏗️ Building FireChain [FireChain](https://github.com/0xfirechain)
-- 🏗️ Building FireChain Zkevm [FireChain Zkevm](https://github.com/firechainzkevm)
-- 🏗️ Building DonaSwap [DonaSwap](https://github.com/0xdonaswap)
-- 🏗️ Building FireMask [FireMask](https://github.com/0xfiremask)
-- 🏗️ Building FireSea [FireSea](https://github.com/0xfiresea)
-- 🏗️ Building Punk Knights [Punk Knights](https://github.com/0xpunkknights)
+- 📝 Working on [Fire Station](https://github.com/0xfirestation) as CEO
+- 🏗️ Building [FireChain](https://github.com/0xfirechain)
+- 🏗️ Building [FireChain Zkevm](https://github.com/firechainzkevm)
+- 🏗️ Building [DonaSwap](https://github.com/0xdonaswap)
+- 🏗️ Building [FireMask](https://github.com/0xfiremask)
+- 🏗️ Building [FireSea](https://github.com/0xfiresea)
+- 🏗️ Building [Punk Knights](https://github.com/0xpunkknights)
 
 ## Connect with me:
 
