@@ -1,5 +1,3 @@
-# [Fire Station](https://github.com/0xfirestation) founder and CEO | GF 🔥 FIRE
-
 - 🏗️ Building [Fire Station](https://github.com/0xfirestation)
 - 🏗️ Building [FireChain](https://github.com/0xfirechain)
 - 🏗️ Building [FireChain Zkevm](https://github.com/firechainzkevm)
